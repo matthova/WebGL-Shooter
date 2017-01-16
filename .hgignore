@@ -1,0 +1,6 @@
+syntax: glob
+.idea/copyright/profiles_settings.xml
+.idea/dictionaries/hugo.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
